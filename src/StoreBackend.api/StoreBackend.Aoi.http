@@ -1,0 +1,6 @@
+@StoreBackend.Aoi_HostAddress = http://localhost:5205
+
+GET {{StoreBackend.Aoi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
